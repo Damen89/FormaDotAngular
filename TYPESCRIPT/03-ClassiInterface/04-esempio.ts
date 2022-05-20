@@ -20,7 +20,7 @@ class Bmw implements Auto{
 
     private velocita = 0;
 
-    //Dependency Injection 
+    //chiameremo Dependency Injection 
     constructor(private motore: Motore){
 
     }
